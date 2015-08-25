@@ -1,0 +1,7 @@
+##增加字段
+需要修改三处代码。
+* 修改DATA.java，增加字段，增加setter和getter方法
+* 修改Splitfield.java，为data数据结构赋值
+* DATA.java中，修改Add()方法
+	
+	
